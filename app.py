@@ -198,17 +198,15 @@ html, body, [class*="css"] { font-family: 'Syne', sans-serif; }
 # ── HERO ──────────────────────────────────────────────────────────────────────
 st.markdown('<p class="label">// portfolio.init()</p>', unsafe_allow_html=True)
 st.markdown("""
-<h1 class="hero-name">Tariq<span class="cursor"></span></h1>
+<h1 class="hero-name">Hi! Tariq here</h1>
 <p class="bio">
-  BBA student at FUUAST Karachi &amp; Python Developer trainee at You Excel.<br>
+  BBA student at FUUAST Karachi &amp; Python Developer at You Excel.<br>
   Building data dashboards and web UIs that actually work.
 </p>
 <div class="tags">
   <span class="tag">Python</span>
   <span class="tag">Streamlit</span>
   <span class="tag">Pandas</span>
-  <span class="tag">Plotly</span>
-  <span class="tag">React</span>
   <span class="tag">Karachi, PK</span>
 </div>
 """, unsafe_allow_html=True)
@@ -251,7 +249,7 @@ st.markdown('<div class="divider"></div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="footer">
   <a href="https://github.com/TariqCO" target="_blank" class="social">⌥ github.com/TariqCO</a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" class="social">in linkedin.com/in/yourprofile</a>
+  <a href="https://linkedin.com/in/tariq-1712tr" target="_blank" class="social">in linkedin.com/in/tariq-1712tr</a>
   <a href="mailto:tariq.official1712@gmail.com" class="social">@ tariq.official1712@gmail.com</a>
 </div>
 """, unsafe_allow_html=True)
